@@ -131,7 +131,6 @@ with tab3:
 
 with tab4:
     st.title("Automated Stakeholder Report")
-    st.markdown("### 🤖 Agent 4 Recommendations")
     
     # Simple Insight Logic
     low_roi = partner_perf[partner_perf['ROI'] < 1.0]
