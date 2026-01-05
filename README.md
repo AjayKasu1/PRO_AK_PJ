@@ -1,9 +1,10 @@
 # Affiliate Commerce KPI & ROI Tracker 📊
 
 
+
 **New York Post Commerce Data Analyst Portfolio Project**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ajaykasu1-pro-ak-pj-srcdashboard-uejez7.streamlit.app/)
+# 🔴 [LIVE DEMO: Click here to view the Interactive Dashboard](https://ajaykasu1-pro-ak-pj-srcdashboard-uejez7.streamlit.app/)
 
 This project demonstrates a complete end-to-end analytics platform for an Affiliate Commerce business. It ingests campaign traffic data, calculates critical financial KPIs (ROI, EPC, AOV), and presents actionable insights via an interactive dashboard.
 
