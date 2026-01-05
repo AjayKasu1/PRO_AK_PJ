@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+
+# Project Data
+# We exclude the generated DB, but keep the source CSV
+data/affiliate_commerce.db
+
+# OS
+.DS_Store
+
+# Reports (Optional, but usually we generate them)
+# Stakeholder_Report.md # user might want to keep this
+
+# IDE
+.idea/
+.vscode/

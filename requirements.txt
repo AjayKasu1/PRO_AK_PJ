@@ -1,0 +1,13 @@
+pandas
+numpy
+plotly
+dash
+streamlit
+faker
+matplotlib
+seaborn
+statsmodels
+kaleido
+scikit-learn
+openpyxl
+jupyter
